@@ -1,0 +1,15 @@
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    height: 10rem;
+    grid-template-columns: 25rem 25rem 25rem 25rem;
+    padding: 3rem;
+    background-color: #89CFF0;
+}
+.columns {
+    text-align:  center;
+    border: 2px solid;
+    flex-grow: 0.25;
+    padding: 3rem;
+    background-color:white ;
+}

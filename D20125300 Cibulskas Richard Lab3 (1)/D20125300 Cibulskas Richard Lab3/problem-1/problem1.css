@@ -1,0 +1,42 @@
+.main {
+	width: 400px;
+	margin: 0 auto;
+}
+h1 {
+	text-align: center;
+}
+
+[colorButton="blue"] {
+	background-color: blue;
+}
+[colorButton="purple"] {
+	background-color: purple;
+}
+
+input {
+	margin-left: 100px;
+	color: black;
+	border-radius: 5px;
+}
+
+button {
+    background-color: orange; 
+    border: none;
+    color: white;
+    padding: 8px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 100px;
+}
+
+button#add {
+	background-color: orange;
+    margin-left: 10px;
+    padding: 3px 12px;
+    font-size: 14px;
+}
+
+
+
